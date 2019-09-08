@@ -7,10 +7,10 @@
     "servers": [
         {
             "id": "mc",
-            "name": "Minecraft",
+            "name": "Minecraft server",
             "description": "minecraft forge",
             "icon": "https://cdn.pixabay.com/photo/2013/07/12/19/25/minecraft-154749_960_720.png",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "address": "localhost",
             "minecraftVersion": "1.12.2",
             "mainServer": true,
